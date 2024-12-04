@@ -1,0 +1,14 @@
+﻿<Page x:Class="HWPersoneelManagment.Pages.HomePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:HWPersoneelManagment.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="HomePage">
+
+    <Grid>
+        <Label Content="Здравствуйте!&#xD;&#xA;Это приложение &quot;Управление персоналом&quot;. &#xD;&#xA;В нём имеется возможность просмотра и редактирования персонала." HorizontalAlignment="Left" Margin="280,18,0,0" VerticalAlignment="Top" Height="142" Width="504"/>
+    </Grid>
+</Page>
